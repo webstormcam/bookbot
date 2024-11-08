@@ -1,2 +1,3 @@
 # bookbot
-A repo for my text analysis program.
+BookBot is my first project!
+
